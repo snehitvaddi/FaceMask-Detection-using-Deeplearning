@@ -13,13 +13,13 @@ Data set can be downloaded from https://github.com/prajnasb/face_detector/tree/m
 ## Setup
 You can setup using either of the two methods below.
 
-### Option:1 Setup (Pipenv Virtual Environment)
+### Method 1: Setup (Pipenv Virtual Environment)
 1. Clone the project to your local system
 2. Navigate inside the project directory on your local system inside the terminal
 3. Install all dependencies using `pipenv install --ignore-pipfile`
 4. Start environment with `pipenv shell`
 
-### Option:2 Setup (pip)
+### Method 2: Setup (pip)
 1. Clone the project to your local system
 2. Navigate inside the project directory on your local system inside the terminal
 3. Install all dependencies using `pip install -r requirements.txt`
