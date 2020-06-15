@@ -3,6 +3,9 @@ Classification model to classify people with and without masks.
 A piolet project of Face mask detection. During the times of COVID-19, covering our face with a mask and maintaining social distancing is essential.  
 With advancements in the field of Deep Learning, now we can easily train a model and check if someone is earning a mask or not.
 
+## Dataset: 
+Data set can be downloaded from https://github.com/prajnasb/face_detector/tree/master/dataset
+
 ## Output:
 
 <a href="https://youtu.be/yketl5zUZEw"><img src="https://github.com/snehitvaddi/FaceMask-Detection-using-Deeplearning/blob/master/outputs/Capture.PNG" width="700" height="350"></a>
