@@ -7,7 +7,7 @@ With advancements in the field of Deep Learning, now we can easily train a model
 Data set can be downloaded from https://github.com/prajnasb/face_detector/tree/master/dataset
 
 ## 💖Favour:
-It would be motivating if you can STAR⭐ this repo, if you like it or anna fork it😅
+It would be motivating if you can STAR⭐ this repo, if you like it or wanna fork it😅
 
 ## 🎉Output:
 
