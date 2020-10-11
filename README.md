@@ -16,20 +16,20 @@ It would be motivating if you can STAR⭐ this repo, if you like it or anna fork
 ## 🔧Setup
 You can setup using either of the two methods below.
 
-👉### Method 1: Setup (Pipenv Virtual Environment)
+### 👉Method 1: Setup (Pipenv Virtual Environment)
 1. Clone the project to your local system
 2. Navigate inside the project directory on your local system inside the terminal
 3. Install all dependencies using `pipenv install --ignore-pipfile`
 4. Start environment with `pipenv shell`
 
-👉### Method 2: Setup (pip)
+### 👉Method 2: Setup (pip)
 1. Clone the project to your local system
 2. Navigate inside the project directory on your local system inside the terminal
 3. Install all dependencies using `pip install -r requirements.txt`
 
-👉## Detection
+## Detection👀
 
-👉### Detecting faces with maks in video
+### Detecting faces with maks in video
 1. Navigate to jupyter-notebook `./FaceMask Detection using Deep Learning.ipynb` 
 2. Run import libraries cell and load model cell.
 3. For getting real-time results, run predicition and casscade classifier cell
