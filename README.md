@@ -6,7 +6,7 @@ With advancements in the field of Deep Learning, now we can easily train a model
 ## 📑Dataset: 
 Data set can be downloaded from https://github.com/prajnasb/face_detector/tree/master/dataset
 
-## 💖Favour:
+## Favour:
 It would be highly motivating, if you can STAR⭐ this repo in case you find it helpful it or wanna fork it😅
 
 ## 🎉Output:
@@ -33,3 +33,8 @@ You can setup using either of the two methods below.
 1. Navigate to jupyter-notebook `./FaceMask Detection using Deep Learning.ipynb` 
 2. Run import libraries cell and load model cell.
 3. For getting real-time results, run predicition and casscade classifier cell
+
+**👁‍ Creator Disclaimer**
+--------
+All results from this open-source code should only be used for research/academic/personal purposes only. As the models are trained on the <a href="https://github.com/prajnasb/observations/tree/master/experiements/data">prajnasb's dataset</a>, any form of commercial use is strictly prohibhited. Please contact us for all further queries.  
+
