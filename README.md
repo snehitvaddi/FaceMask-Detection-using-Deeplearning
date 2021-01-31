@@ -6,15 +6,15 @@ With advancements in the field of Deep Learning, now we can easily train a model
 ### 📑Dataset: 
 Data set can be downloaded from https://github.com/prajnasb/face_detector/tree/master/dataset
 
-### Favour:
-It would be highly motivating, if you can <b>STAR</b>⭐ this repo in case you find it helpful it or wanna fork it😅
+### 📢 Favour:
+It would be highly motivating, if you can <b>STAR</b>⭐ this repo if you find it helpful.😅
 
 ### 🎉Output:
 
 <a href="https://youtu.be/yketl5zUZEw"><img src="https://github.com/snehitvaddi/FaceMask-Detection-using-Deeplearning/blob/master/outputs/Capture.PNG" width="700" height="350"></a>
 --------
 ## 🔧Setup
-You can setup using either of the two methods below.
+You can setup this project using either of the methods mentioned below.
 
 #### 👉Method 1: Setup (Pipenv Virtual Environment)
 1. Clone the project to your local system
@@ -36,5 +36,5 @@ You can setup using either of the two methods below.
 
 **👁‍ Creator Disclaimer**
 --------
-All results from this open-source code should only be used for research/academic/personal purposes only. As the models are trained on the <a href="https://github.com/prajnasb/observations/tree/master/experiements/data">prajnasb's dataset</a>, any form of commercial use is strictly prohibhited. Please contact us for all further queries.  
+All results from this open-source code should only be used for research/academic/personal purposes only. As the models were trained on the <a href="https://github.com/prajnasb/observations/tree/master/experiements/data">prajnasb's dataset</a>, any form of commercial use is strictly prohibhited. Please contact us for all further queries.  
 
