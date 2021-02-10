@@ -36,5 +36,5 @@ You can setup this project using either of the methods mentioned below.
 
 **👁‍ Creator Disclaimer**
 --------
-All results from this open-source code should only be used for research/academic/personal purposes only. As the models were trained on the <a href="https://github.com/prajnasb/observations/tree/master/experiements/data">prajnasb's dataset</a>, any form of commercial use is strictly prohibhited. Please contact us for all further queries.  
+Results from this Open-source Repo should only be used for research/academic/personal purposes only. As the models were trained on the <a href="https://github.com/prajnasb/observations/tree/master/experiements/data">prajnasb's dataset</a>, any form of commercial use is strictly prohibhited. Please contact us for all further queries.  
 
