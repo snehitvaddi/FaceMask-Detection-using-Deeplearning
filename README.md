@@ -3,7 +3,6 @@ A CNN based Image Classification model to classify people with and without masks
 A pilot project of Face mask detection. During the times of COVID-19, covering our face with a mask and maintaining social distancing is essential.  
 With advancements in the field of Deep Learning, now we can easily train a model and check if someone is earning a mask or not.
 
-### 📑 Dataset:
 |🗃 Dataset|
 |:-:|
 | [Link](https://github.com/prajnasb/face_detector/tree/master/dataset)|
