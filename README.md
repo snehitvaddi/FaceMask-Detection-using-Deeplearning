@@ -21,7 +21,7 @@ It would be highly motivating, if you can <b>STAR</b>⭐ this repo if you find i
 * Load the Custom-trained CNN model, iterate each face through the model to predict mask on face.
 * Post-process the frame ie; Tagging Face, with respective predictions.
 --------
-## 🔧Setup
+### 🔧Setup
 You can setup this project using either of the methods mentioned below.
 
 #### 👉 Method 1: Setup (Pipenv Virtual Environment)
