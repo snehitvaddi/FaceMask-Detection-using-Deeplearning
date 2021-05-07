@@ -14,6 +14,9 @@ It would be highly motivating, if you can <b>STAR</b>⭐ this repo if you find i
 ### 🎉 Output:
 
 <a href="https://youtu.be/yketl5zUZEw"><img src="https://github.com/snehitvaddi/FaceMask-Detection-using-Deeplearning/blob/master/outputs/Capture.PNG" width="700" height="350"></a>
+### 🧠 How it works!!
+* Read input either as single image or video from webcam.
+* 
 --------
 ## 🔧Setup
 You can setup this project using either of the methods mentioned below.
