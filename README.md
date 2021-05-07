@@ -15,8 +15,11 @@ It would be highly motivating, if you can <b>STAR</b>⭐ this repo if you find i
 
 <a href="https://youtu.be/yketl5zUZEw"><img src="https://github.com/snehitvaddi/FaceMask-Detection-using-Deeplearning/blob/master/outputs/Capture.PNG" width="700" height="350"></a>
 ### 🧠 How it works!!
-* Read input either as single image or video from webcam.
-* 
+* Read input either as single image or video from webcam using OpenCV.
+* Detect location of faces in given frame using Face_Frontal_Default Cascade Classifier.[Download](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
+* Save the list of face portions for further steps.
+* Load the Custom-trained CNN model, iterate each face through the model to predict mask on face.
+* Post-process the frame ie; Tagging Face, with respective predictions.
 --------
 ## 🔧Setup
 You can setup this project using either of the methods mentioned below.
