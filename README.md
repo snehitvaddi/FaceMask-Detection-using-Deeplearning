@@ -43,6 +43,5 @@ You can setup this project using either of the methods mentioned below.
 3. For getting real-time results, run predicition and casscade classifier cell
 
 **👁‍ Creator Disclaimer**
---------
 Since the dataset used here is Open-Sourced, this code should only be used for research/academic/personal purposes only. The models were trained on the <a href="https://github.com/prajnasb/observations/tree/master/experiements/data">prajnasb's Open Source dataset</a>, any form of commercial use is strictly prohibhited. Please contact me for all further queries.😉
 
