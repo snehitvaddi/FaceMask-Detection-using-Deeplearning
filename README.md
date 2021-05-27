@@ -13,6 +13,14 @@ It would be highly motivating, if you can <b>STAR</b>⭐ this repo if you find i
 ### 🎉 Output:
 
 <a href="https://youtu.be/yketl5zUZEw"><img src="https://github.com/snehitvaddi/FaceMask-Detection-using-Deeplearning/blob/master/outputs/Capture.PNG" width="700" height="350"></a>
+### 🏃‍♂️ How to Run
+
+#### Detecting faces with maks in video
+1. Navigate to jupyter-notebook `./FaceMask Detection using Deep Learning.ipynb` 
+**This file is made private due to misusage, contact me @v.snehith999@gmail.com for the file.**
+2. Run import libraries cell and load model cell.
+3. For getting real-time results, run predicition and casscade classifier cell
+
 ### 🧠 How it works!!
 * Read input either as single image or video from webcam using OpenCV.
 * Detect location of faces in given frame using Face_Frontal_Default Cascade Classifier.[Download](https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml)
@@ -34,12 +42,6 @@ You can setup this project using either of the methods mentioned below.
 2. Navigate inside the project directory on your local system inside the terminal
 3. Install all dependencies using `pip install -r requirements.txt`
 --------
-### 👀 Detection
-
-#### Detecting faces with maks in video
-1. Navigate to jupyter-notebook `./FaceMask Detection using Deep Learning.ipynb` 
-2. Run import libraries cell and load model cell.
-3. For getting real-time results, run predicition and casscade classifier cell
 
 **👁‍ Creator Disclaimer**
 Since the dataset used here is Open-Sourced, this code should only be used for research/academic/personal purposes only. The models were trained on the <a href="https://github.com/prajnasb/observations/tree/master/experiements/data">prajnasb's Open Source dataset</a>, any form of commercial use is strictly prohibhited. Please contact me for all further queries.😉
