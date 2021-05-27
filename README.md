@@ -17,7 +17,7 @@ It would be highly motivating, if you can <b>STAR</b>⭐ this repo if you find i
 
 #### Detecting faces with maks in video
 1. Navigate to jupyter-notebook `./FaceMask Detection using Deep Learning.ipynb` <br>
-**I made this file private to avoid misuse, contact me @v.snehith999@gmail.com for the file.**
+**I made this file private to avoid misuse, contact me @v.snehith999@gmail.com for the file ☺**
 2. Run import libraries cell and load model cell.
 3. For getting real-time results, run predicition and casscade classifier cell
 
