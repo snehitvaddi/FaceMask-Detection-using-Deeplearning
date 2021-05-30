@@ -3,7 +3,7 @@ A CNN based Image Classification model to classify people with and without masks
 A pilot project of Face mask detection. During the times of COVID-19, covering our face with a mask and maintaining social distancing is essential.  
 With advancements in the field of Deep Learning, now we can easily train a model and check if someone is earning a mask or not.
 
-**I made this file private to avoid misuse, contact me @v.snehith999@gmail.com for the file ☺**
+**Some files were made private to avoid misuse, contact me @v.snehith999@gmail.com for complete directory ☺**
 |🗃 Dataset| 📰 HaarCascade |
 |:-:|:-:|
 | [Link](https://github.com/prajnasb/face_detector/tree/master/dataset)| [File](https://github.com/snehitvaddi/FaceMask-Detection-using-Deeplearning/blob/master/haarcascade_frontalface_default.xml)|
@@ -18,6 +18,7 @@ It would be highly motivating, if you can <b>STAR</b>⭐ this repo if you find i
 
 #### Detecting faces with maks in video
 1. Navigate to jupyter-notebook `./FaceMask Detection using Deep Learning.ipynb` <br>
+**I made this file private to avoid misuse, contact me @v.snehith999@gmail.com for complete directory ☺**
 2. Run import libraries cell and load model cell.
 3. For getting real-time results, run predicition and casscade classifier cell
 
