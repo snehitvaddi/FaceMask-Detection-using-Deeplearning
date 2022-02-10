@@ -4,7 +4,7 @@ A pilot project of Face mask detection. During the times of COVID-19, covering o
 With advancements in the field of Deep Learning, now we can easily train a model and check if someone is earning a mask or not.
 
 **I have made `FaceMask Detection.ipynb` private to avoid misuse, contact me @v.snehith999@gmail.com for complete directory ☺**<br>
-**Need a detailed explanation of the project? ping me for persoanl 1-1 explanation ☝**
+**Need a detailed explanation of the project? ping me for personal 1-1 explanation ☝**
 |🗃 Dataset| 📰 HaarCascade |
 |:-:|:-:|
 | [Link](https://github.com/prajnasb/face_detector/tree/master/dataset)| [File](https://github.com/snehitvaddi/FaceMask-Detection-using-Deeplearning/blob/master/haarcascade_frontalface_default.xml)|
